@@ -8,9 +8,18 @@
     float: right;
     font-size: 20pt;
     
+    
 }
 .my-name{
     color: white;
     display: inline;
 
+}
+.hero{
+background-image: url("https://www.pixelstalk.net/wp-content/uploads/2016/10/Best-Desktop-Background-Widescreen-Sites.jpg");
+
+}
+.subtitle{
+    font-size: 20pt;
+    display: inline;
 }
